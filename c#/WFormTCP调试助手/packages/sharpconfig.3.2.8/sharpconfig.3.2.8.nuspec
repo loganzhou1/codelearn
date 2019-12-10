@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>sharpconfig</id>
+    <version>3.2.8</version>
+    <title>SharpConfig</title>
+    <authors>Cemalettin Dervis</authors>
+    <owners>Cemalettin Dervis</owners>
+    <projectUrl>https://github.com/cemdervis/SharpConfig</projectUrl>
+    <iconUrl>http://i.imgur.com/x6x7xiy.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SharpConfig is an easy-to-use CFG/INI configuration library for .NET.</description>
+    <summary>SharpConfig is an easy-to-use CFG/INI configuration library for .NET.</summary>
+    <releaseNotes>See https://github.com/cemdervis/SharpConfig/releases/tag/3.2.8</releaseNotes>
+    <copyright>Copyright © Cemalettin Dervis 2013-2018</copyright>
+    <tags>sharpconfig config c# csharp cfg ini configuration library</tags>
+  </metadata>
+</package>
