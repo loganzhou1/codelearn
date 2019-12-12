@@ -1,0 +1,9 @@
+D:\0Git\git-repositories\codelearn\c#\C#常用工具封装\常用工具类\常用工具类\bin\Debug\常用工具类.exe.config
+D:\0Git\git-repositories\codelearn\c#\C#常用工具封装\常用工具类\常用工具类\bin\Debug\常用工具类.exe
+D:\0Git\git-repositories\codelearn\c#\C#常用工具封装\常用工具类\常用工具类\bin\Debug\常用工具类.pdb
+D:\0Git\git-repositories\codelearn\c#\C#常用工具封装\常用工具类\常用工具类\obj\Debug\常用工具类.csprojResolveAssemblyReference.cache
+D:\0Git\git-repositories\codelearn\c#\C#常用工具封装\常用工具类\常用工具类\obj\Debug\常用工具类.Form1.resources
+D:\0Git\git-repositories\codelearn\c#\C#常用工具封装\常用工具类\常用工具类\obj\Debug\常用工具类.Properties.Resources.resources
+D:\0Git\git-repositories\codelearn\c#\C#常用工具封装\常用工具类\常用工具类\obj\Debug\常用工具类.csproj.GenerateResource.Cache
+D:\0Git\git-repositories\codelearn\c#\C#常用工具封装\常用工具类\常用工具类\obj\Debug\常用工具类.exe
+D:\0Git\git-repositories\codelearn\c#\C#常用工具封装\常用工具类\常用工具类\obj\Debug\常用工具类.pdb
